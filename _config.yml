@@ -3,3 +3,7 @@ theme:minima
 author:
   name: Simon Perche
   email: "simon.perche@liris.cnrs.fr"
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/simonperche/authoring_terrains_with_spatialised_stylel" }
