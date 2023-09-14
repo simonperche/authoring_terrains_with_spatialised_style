@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 ---
 
 # Authoring Terrains with Spatialised Style
