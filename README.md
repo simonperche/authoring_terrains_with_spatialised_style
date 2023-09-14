@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Authoring Terrains with Spatialised Style
 
 ## Abstract
