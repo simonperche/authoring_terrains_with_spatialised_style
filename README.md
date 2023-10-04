@@ -1,9 +1,16 @@
-# Authoring Terrains with Spatialised Style
+# Nerfies
 
-Code and dataset coming soon.
+This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
 
-## Abstract
+If you find Nerfies useful for your work please cite:
+```
+@article{park2021nerfies
+  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
+  title     = {Nerfies: Deformable Neural Radiance Fields},
+  journal   = {ICCV},
+  year      = {2021},
+}
+```
 
-Various terrain modeling methods have been proposed for the past few decades, providing efficient and often interactive authoring tools. However, they seldom include any notion of style, which is a critical aspect for designers in the entertainment industry. We introduce a new generative network method that bridges the gap between automatic terrain synthesis and authoring, providing a versatile set of authoring tools allowing spatialized style. Given an input sketch or existing elevation map, our method generates a terrain with features that can be authored, enhanced, and augmented using interactive brushes and style manipulation tools. The strength of our approach resides in the versatility and interoperability of the toolbox.
-
-# Citation
+# Website License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
